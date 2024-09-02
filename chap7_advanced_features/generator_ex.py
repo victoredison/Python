@@ -54,9 +54,9 @@ if results == [
     [1, 8, 28, 56, 70, 56, 28, 8, 1],
     [1, 9, 36, 84, 126, 126, 84, 36, 9, 1]
 ]:
-    print('测试通过!')
+    print('test passed!')
 else:
-    print('测试失败!')
+    print('test failed!')
 
 
 
