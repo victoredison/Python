@@ -12,13 +12,3 @@ else:
     print('测试失败!')
 
 
-a='123.456'
-i=a.find('.')
-print(i)
-b=a.replace('.','')
-print(b)
-
-
-m=12445
-n=m/100
-print(n)
