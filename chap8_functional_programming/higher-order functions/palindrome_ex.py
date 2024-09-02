@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of filter function '
+
+__author__ = 'victor yu'
 
 # A palindrome is a number that reads the same from left to right as it does from right to left, for example, 12321 or 909. 
 # Use filter() to filter out palindromes:

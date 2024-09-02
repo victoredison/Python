@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of lamada function '
+
+__author__ = 'victor yu'
+
 #lamada function exercise
 
 #def is_odd(n):

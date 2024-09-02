@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of map and reduce functions '
+
+__author__ = 'victor yu'
+
 # Use map and reduce to write a str2float function that converts the string '123.456' into the float 123.456:
 
 # from functools import reduce

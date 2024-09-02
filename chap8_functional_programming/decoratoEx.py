@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of decorators '
+
+__author__ = 'victor yu'
 
 # Please design a decorator that can be applied to any function and print the execution time of that function:
 # python
@@ -60,6 +66,6 @@ def slow(x, y, z):
 f = fast(11, 22)
 s = slow(11, 22, 33)
 if f != 33:
-    print('测试失败!')
+    print('test failed!')
 elif s != 7986:
-    print('测试失败!')
+    print('test failed!')

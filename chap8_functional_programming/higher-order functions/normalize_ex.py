@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of map function '
+
+__author__ = 'victor yu'
+
+
 # Use the map() function to convert a list of improperly formatted English names 
 # into properly formatted names with the first letter capitalized and the rest in lowercase. 
 # Input: ['adam', 'LISA', 'barT'], Output: ['Adam', 'Lisa', 'Bart']:

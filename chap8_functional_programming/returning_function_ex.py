@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of returning function '
+
+__author__ = 'victor yu'
+
 # Use a closure to return a counter function that returns an incrementing integer each time it is called:
 
 # def createCounter():

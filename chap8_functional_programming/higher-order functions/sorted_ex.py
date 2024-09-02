@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of sorted function '
+
+__author__ = 'victor yu'
+
 #sorted() exercise
 
 # Suppose we use a list of tuples to represent student names and scores:
