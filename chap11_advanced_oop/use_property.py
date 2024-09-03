@@ -1,3 +1,27 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of @property decorator '
+
+__author__ = 'victor yu'
+
+# Use @property to add width and height attributes to a Screen object, as well as a read-only attribute resolution:
+# python
+# 
+# class Screen(object):
+#     pass
+
+# # Test:
+# s = Screen()
+# s.width = 1024
+# s.height = 768
+# print('resolution =', s.resolution)
+# if s.resolution == 786432:
+#     print('Test passed!')
+# else:
+#     print('Test failed!')
+
+
 class Screen(object):
     def __init__(self):
        self.__width  = None
@@ -40,6 +64,6 @@ s.width = 1024
 s.height = 768
 print('resolution =', s.resolution)
 if s.resolution == 786432:
-    print('测试通过!')
+    print('Test passed!')
 else:
-    print('测试失败!')
+    print('Test failed!')
