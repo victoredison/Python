@@ -6,7 +6,6 @@
 __author__ = 'victor yu'
 
 # Use @property to add width and height attributes to a Screen object, as well as a read-only attribute resolution:
-# python
 # 
 # class Screen(object):
 #     pass

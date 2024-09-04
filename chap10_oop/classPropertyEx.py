@@ -7,7 +7,6 @@ __author__ = 'victor yu'
 
 
 # To count the number of students, you can add a class attribute to the Student class. Each time an instance is created, this attribute automatically increments:
-# python
 # 
 # class Student(object):
 #     count = 0

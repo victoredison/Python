@@ -6,7 +6,6 @@
 __author__ = 'victor yu'
 
 # Modify the gender attribute of the Student class to be an enumeration type, which can avoid using strings:
-# python
 # 
 # from enum import Enum, unique
 

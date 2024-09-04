@@ -7,7 +7,7 @@ __author__ = 'victor yu'
 
 
 # Hide the gender field of the Student object from external access, and replace it with get_gender() and set_gender(). Also, check the validity of the parameters:
-# python
+# 
 # 
 # class Student(object):
 #     def __init__(, name, gender):
