@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-' an exercise of @property decorator '
+' an exercise of except handling '
 
 __author__ = 'victor yu'
 

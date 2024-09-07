@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of file operation '
+
+__author__ = 'victor yu'
+
+
 fpath = '/usr/local/temp/test.txt'
 
 with open(fpath, 'a+') as f:
