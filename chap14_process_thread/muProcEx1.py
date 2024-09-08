@@ -1,3 +1,11 @@
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of multiprocessing'
+
+__author__ = 'victor yu'
+
 import os
 
 print('Process (%s) start...' % os.getpid())

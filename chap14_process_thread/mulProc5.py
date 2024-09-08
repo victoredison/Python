@@ -1,4 +1,11 @@
 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of multiprocessing'
+
+__author__ = 'victor yu'
+
 from multiprocessing import Process, freeze_support
 
 import os,time

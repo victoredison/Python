@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of  OOP'
+
 class Student():
     def __init__(self, name, score):
         self.name = name
