@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of regular expression '
+
+__author__ = 'victor yu'
+
+# 请尝试写一个验证Email地址的正则表达式。版本一应该可以验证出类似的Email：
+# please try to write a regular expression that can validate an email address
+# Second edition of this expression should be able to extract names from email addresses
+# <Tom Paris> tom@voyager.org => Tom Paris
+# bob@example.com => bob
+
 import re
 
 def name_of_email(addr):

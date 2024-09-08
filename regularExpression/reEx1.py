@@ -1,3 +1,11 @@
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' an exercise of regular expression'
+
+__author__ = 'victor yu'
+
 import re
 
 test = '用户输入的字符串'
