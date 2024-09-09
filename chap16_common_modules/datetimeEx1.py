@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-' an exercise of multiprocessing'
+' an exercise of datetime module'
 
 __author__ = 'victor yu'
 
